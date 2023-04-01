@@ -8,6 +8,8 @@ Sitio web que en su etapa inicial tendrá una sola página (solo un archivo inde
 
 *Este proyecto estará elaborado con bootstrap v5.3.*
 
+Anthony Edward Stark o Tony Stark es el auto proclamado genio, millonario, play boy, filantropo, graduado del MIT y actual CEO de Industrias Stark, así mismo es el reconocido superheroe Iron Man, conoce un poco de su hisoria y des us diversas misiones con la iniciativa AVENGERS, todo esto narrado por su IA J.A.R.V.I.S
+
 ## Integrantes
 
 <li><a href="https://github.com/Emanuelq017">Emmanuel Quintero</a></li>
